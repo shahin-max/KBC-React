@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/KBC-React.git/static/css/main.a4e302ab.chunk.css",
-    "main.js": "/KBC-React.git/static/js/main.e93ca5b9.chunk.js",
-    "main.js.map": "/KBC-React.git/static/js/main.e93ca5b9.chunk.js.map",
-    "runtime-main.js": "/KBC-React.git/static/js/runtime-main.1b78ecc1.js",
-    "runtime-main.js.map": "/KBC-React.git/static/js/runtime-main.1b78ecc1.js.map",
-    "static/js/2.9cafd4ed.chunk.js": "/KBC-React.git/static/js/2.9cafd4ed.chunk.js",
-    "static/js/2.9cafd4ed.chunk.js.map": "/KBC-React.git/static/js/2.9cafd4ed.chunk.js.map",
-    "static/js/3.3da86ad0.chunk.js": "/KBC-React.git/static/js/3.3da86ad0.chunk.js",
-    "static/js/3.3da86ad0.chunk.js.map": "/KBC-React.git/static/js/3.3da86ad0.chunk.js.map",
-    "index.html": "/KBC-React.git/index.html",
-    "static/css/main.a4e302ab.chunk.css.map": "/KBC-React.git/static/css/main.a4e302ab.chunk.css.map",
-    "static/js/2.9cafd4ed.chunk.js.LICENSE.txt": "/KBC-React.git/static/js/2.9cafd4ed.chunk.js.LICENSE.txt",
-    "static/js/3.3da86ad0.chunk.js.LICENSE.txt": "/KBC-React.git/static/js/3.3da86ad0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/KBC-React.git/static/media/bg.474fa3bc.webp",
-    "static/media/correct.160572d7.wav": "/KBC-React.git/static/media/correct.160572d7.wav",
-    "static/media/play.8e5f6d1d.wav": "/KBC-React.git/static/media/play.8e5f6d1d.wav",
-    "static/media/wrong.e9468218.wav": "/KBC-React.git/static/media/wrong.e9468218.wav"
+    "main.css": "/KBC-React/static/css/main.edb390a7.chunk.css",
+    "main.js": "/KBC-React/static/js/main.bb15bec1.chunk.js",
+    "main.js.map": "/KBC-React/static/js/main.bb15bec1.chunk.js.map",
+    "runtime-main.js": "/KBC-React/static/js/runtime-main.4aa1bb0c.js",
+    "runtime-main.js.map": "/KBC-React/static/js/runtime-main.4aa1bb0c.js.map",
+    "static/js/2.323656e0.chunk.js": "/KBC-React/static/js/2.323656e0.chunk.js",
+    "static/js/2.323656e0.chunk.js.map": "/KBC-React/static/js/2.323656e0.chunk.js.map",
+    "static/js/3.289e6ad7.chunk.js": "/KBC-React/static/js/3.289e6ad7.chunk.js",
+    "static/js/3.289e6ad7.chunk.js.map": "/KBC-React/static/js/3.289e6ad7.chunk.js.map",
+    "index.html": "/KBC-React/index.html",
+    "static/css/main.edb390a7.chunk.css.map": "/KBC-React/static/css/main.edb390a7.chunk.css.map",
+    "static/js/2.323656e0.chunk.js.LICENSE.txt": "/KBC-React/static/js/2.323656e0.chunk.js.LICENSE.txt",
+    "static/js/3.289e6ad7.chunk.js.LICENSE.txt": "/KBC-React/static/js/3.289e6ad7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/KBC-React/static/media/bg.474fa3bc.webp",
+    "static/media/correct.160572d7.wav": "/KBC-React/static/media/correct.160572d7.wav",
+    "static/media/play.8e5f6d1d.wav": "/KBC-React/static/media/play.8e5f6d1d.wav",
+    "static/media/wrong.e9468218.wav": "/KBC-React/static/media/wrong.e9468218.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b78ecc1.js",
-    "static/js/2.9cafd4ed.chunk.js",
-    "static/css/main.a4e302ab.chunk.css",
-    "static/js/main.e93ca5b9.chunk.js"
+    "static/js/runtime-main.4aa1bb0c.js",
+    "static/js/2.323656e0.chunk.js",
+    "static/css/main.edb390a7.chunk.css",
+    "static/js/main.bb15bec1.chunk.js"
   ]
 }
